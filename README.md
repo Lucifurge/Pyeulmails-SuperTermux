@@ -1,4 +1,4 @@
-# Pyeulmails SuperTermux
+.# Pyeulmails SuperTermux
 
 ![Pyeulmails SuperTermux](https://img.shields.io/badge/Pyeulmails--SuperTermux-blue?style=flat-square&logo=python)
 
